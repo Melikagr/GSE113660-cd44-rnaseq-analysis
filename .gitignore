@@ -53,15 +53,6 @@ instance/
 scrapy/
 docs/_build/
 
-# Python virtual environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
 # IDE / Editor settings
 .vscode/
 .idea/
