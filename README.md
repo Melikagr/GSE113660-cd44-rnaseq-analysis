@@ -214,8 +214,8 @@ pip install -r env/requirements.txt
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Melikagr/GSE113660-cd44-rnaseq-analysis.git
+cd GSE113660-cd44-rnaseq-analysis
 ```
 
 2. Install the environment
