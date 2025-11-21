@@ -254,12 +254,11 @@ All results will be saved automatically to /results and /figures.
 
 # 🖼 Example Figures
 
-```bash
-figures/volcano_CD44_high_vs_low.png
-figures/pca_CD44.png
-figures/heatmap_top50_DE_genes.png
-figures/roc_CD44_classifier.png
-```
+![Volcano Plot](figures/volcano_CD44_high_vs_low.png)
+
+
+![Top 50 DE Genes](figures/heatmap_top50_DE_genes.png)
+
 
 --- 
 
